@@ -1,0 +1,10 @@
+site_name: 2301 - Git e GitHub
+nav:
+  - Home: index.md
+  - Instalação: instalacao.md
+  - Utilização: utilizacao.md
+theme: flatly
+  # Para guia com sub-item
+  # - Section1:
+  #   - Subpage1: subpage1.md
+  #   - Subpage2: subpage2.md

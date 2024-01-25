@@ -1,5 +1,5 @@
 plugins:
-    - search: {}
+    - search
     - encryptcontent: 
         global_password: 'senha'
 site_name: 2301 - Git e GitHub

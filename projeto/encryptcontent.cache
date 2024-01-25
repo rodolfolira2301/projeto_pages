@@ -1,0 +1,5 @@
+kdf_iterations: 10000
+obfuscate: {}
+password:
+  senha: 229110663ca71e0047bd496ce89f789a431f673fb752be4679c3e48dcee69c08;25c1add17e02cbffcb173ce85fc37a60
+userpass: {}

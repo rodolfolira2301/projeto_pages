@@ -2,6 +2,10 @@ plugins:
     - search: {}
     - encryptcontent: 
         global_password: 'senha'
+        summary: 'Conteúdo protegido. Informe sua senha.'
+        encryption_info_message: "Entre em contato com sua gestão."
+        password_button: True
+        password_button_text: 'Entrar'
 site_name: 2301 - Git e GitHub
 nav:
   - Home: index.md
